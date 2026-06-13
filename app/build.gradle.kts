@@ -49,4 +49,26 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     debugImplementation(libs.androidx.compose.ui.tooling)
+
+
+    // Navigation
+    implementation("androidx.navigation:navigation-compose:2.7.6")
+    // Retrofit for API
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation("com.squareup.okhttp3:logging-interceptor:4.11.0")
+    // In your build.gradle.kts (Module level)
+    implementation("androidx.compose.material:material-icons-extended")
+    implementation("com.google.accompanist:accompanist-permissions:0.32.0")
+// Image loading
+
+    implementation("io.coil-kt:coil-compose:2.5.0")
+// For image compression
+    implementation("androidx.exifinterface:exifinterface:1.3.6")// SQLite
+    implementation("androidx.sqlite:sqlite-ktx:2.4.0")
+// Coroutines
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
+// Activity Result API
+    implementation("androidx.activity:activity-ktx:1.8.2")
+
 }
