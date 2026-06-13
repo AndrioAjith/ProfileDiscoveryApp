@@ -5,7 +5,7 @@ Android application for discovering and managing professional profiles. Built wi
 ## 📱 Download APK
 
 [Download APK]( https://drive.google.com/file/d/1g9pJDx8ZlyWV5HnR94yNoP8poNOF47l0/view?usp=sharing)
-
+[Screen Shots]( [https://drive.google.com/file/d/1g9pJDx8ZlyWV5HnR94yNoP8poNOF47l0/view?usp=sharing](https://drive.google.com/drive/folders/1g0fOLyNm8xit-0IFc0Ki3K6ZUYWBDEPp?usp=sharing))
  
 
 ---
