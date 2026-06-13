@@ -15,7 +15,7 @@ import com.example.profilediscoveryapp.ui.theme.ProfileDiscoveryAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState) 
+        super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
             ProfileDiscoveryAppTheme {
