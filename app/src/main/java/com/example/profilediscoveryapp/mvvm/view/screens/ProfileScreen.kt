@@ -40,7 +40,7 @@ fun ProfileScreen(
     val error by viewModel.error.collectAsStateWithLifecycle()
 
     Scaffold(
-      
+
     ) { paddingValues ->
         Box(
             modifier = Modifier
