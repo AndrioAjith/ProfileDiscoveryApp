@@ -24,7 +24,7 @@ Android application for discovering and managing professional profiles. Built wi
 - User registration with email/password
 - User login
 - Forgot password (email reset)
-- Session management (auto-login)
+- Session management  
 
 ### Profile Management
 - Create profile with all required fields
