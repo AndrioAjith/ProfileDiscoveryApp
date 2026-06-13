@@ -56,7 +56,6 @@ Android application for discovering and managing professional profiles. Built wi
 | UI Toolkit | Jetpack Compose + Material 3 |
 | Architecture | MVVM + Clean Architecture |
 | State Management | StateFlow |
-| Dependency Injection | Dagger Hilt |
 | Networking | Retrofit + OkHttp |
 | Local Storage | sqlite Database + SharedPreferences |
 | Image Loading | Coil |
