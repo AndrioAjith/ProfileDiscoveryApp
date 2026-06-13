@@ -1,24 +1,20 @@
- # Profile Discovery App
+# Profile Discovery App
 
 Android application for discovering and managing professional profiles. Built with Kotlin and Jetpack Compose.
 
 ## 📱 Download APK
 
-[Download APK](https://drive.google.com/file/d/1g9pJDx8ZlyWV5HnR94yNoP8poNOF47l0/view?usp=sharing)
+[Download APK]( https://drive.google.com/file/d/1g9pJDx8ZlyWV5HnR94yNoP8poNOF47l0/view?usp=sharing)
 
-## 📱 Screenshots
+ 
 
-| Login Screen | Register Screen | Profile Discovery |
-|--------------|----------------|-------------------|
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) | ![Discovery](screenshots/discovery.png) |
+---
 
-| Profile Details | Edit Profile | Search & Filters |
-|-----------------|--------------|------------------|
-| ![Profile](screenshots/profile_details.png) | ![Edit](screenshots/edit_profile.png) | ![Search](screenshots/search.png) |
+## 📱 Download ScreenShots
 
-| Favorites | Settings Light | Settings Dark |
-|-----------|---------------|---------------|
-| ![Favorites](screenshots/favorites.png) | ![Light](screenshots/settings_light.png) | ![Dark](screenshots/settings_dark.png) |
+[ScreenShots](https://drive.google.com/drive/folders/1g0fOLyNm8xit-0IFc0Ki3K6ZUYWBDEPp?usp=sharing)
+
+ 
 
 ---
 
@@ -62,7 +58,7 @@ Android application for discovering and managing professional profiles. Built wi
 | State Management | StateFlow |
 | Dependency Injection | Dagger Hilt |
 | Networking | Retrofit + OkHttp |
-| Local Storage | SQLite Database + SharedPreferences |
+| Local Storage | sqlite Database + SharedPreferences |
 | Image Loading | Coil |
 | Async Programming | Coroutines |
 
@@ -80,4 +76,4 @@ Android application for discovering and managing professional profiles. Built wi
 1. **Clone repository**
 ```bash
 git clone https://github.com/yourusername/profile-discovery-app.git
-cd profile-discovery-app
+cd profile-discovery-app add screen shot link
