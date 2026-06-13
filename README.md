@@ -4,10 +4,21 @@ Android application for discovering and managing professional profiles. Built wi
 
 ## 📱 Download APK
 
-[Download APK]( https://drive.google.com/file/d/1g9pJDx8ZlyWV5HnR94yNoP8poNOF47l0/view?usp=sharing)
+[Download APK](https://drive.google.com/file/d/1g9pJDx8ZlyWV5HnR94yNoP8poNOF47l0/view?usp=sharing)
 
-[Screen Shots]( [https://drive.google.com/file/d/1g9pJDx8ZlyWV5HnR94yNoP8poNOF47l0/view?usp=sharing](https://drive.google.com/drive/folders/1g0fOLyNm8xit-0IFc0Ki3K6ZUYWBDEPp?usp=sharing))
- 
+## 📱 Screenshots
+
+| Login Screen | Register Screen | Profile Discovery |
+|--------------|----------------|-------------------|
+| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) | ![Discovery](screenshots/discovery.png) |
+
+| Profile Details | Edit Profile | Search & Filters |
+|-----------------|--------------|------------------|
+| ![Profile](screenshots/profile_details.png) | ![Edit](screenshots/edit_profile.png) | ![Search](screenshots/search.png) |
+
+| Favorites | Settings Light | Settings Dark |
+|-----------|---------------|---------------|
+| ![Favorites](screenshots/favorites.png) | ![Light](screenshots/settings_light.png) | ![Dark](screenshots/settings_dark.png) |
 
 ---
 
@@ -51,7 +62,7 @@ Android application for discovering and managing professional profiles. Built wi
 | State Management | StateFlow |
 | Dependency Injection | Dagger Hilt |
 | Networking | Retrofit + OkHttp |
-| Local Storage | sqlite Database + SharedPreferences |
+| Local Storage | SQLite Database + SharedPreferences |
 | Image Loading | Coil |
 | Async Programming | Coroutines |
 
